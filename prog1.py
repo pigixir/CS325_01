@@ -1,3 +1,4 @@
-print("Goodbye Cruel World")
-
-print("Hello World")
+i=7
+j=10
+print(i+j)
+print("hello siue")
